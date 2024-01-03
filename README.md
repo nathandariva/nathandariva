@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @nathandariva, Test Analyst
 - 👀 I'm interested in automated tests
-- 🌱 I'm learning selenium
+- 🌱 I'm learning
 - 🦾 Here you will see cypress, selenium and robot... 
 - 💞️ I'm looking to collaborate to help me evolve.
 - 📫 How to reach me: @nathandariva on LinkedIn
